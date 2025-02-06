@@ -1,8 +1,8 @@
-# 3D-Printed Case for ESP32C3 SunBuddy Module
+# 3D-Printed Case for SunBuddy-C3 Module
 
-![ESP32C3 SunBuddy 3D Case](media/SunBuddyShow.GIF)
+![SunBuddy-C3 3D Case](media/SunBuddyShow.GIF)
 
-This repository contains design files for a 3D-printed case developed for the [ESP32C3 SunBuddy Module](https://oshwlab.com/rrguardo83/water-level-.pro-s1-v2). The case is designed and tested for outdoor use, providing robust protection against rain and adverse weather conditions.
+This repository contains design files for a 3D-printed case developed for the [SunBuddy-C3 Module](https://oshwlab.com/rrguardo83/water-level-.pro-s1-v2). The case is designed and tested for outdoor use, providing robust protection against rain and adverse weather conditions.
 
 ## Features
 
@@ -18,9 +18,9 @@ This repository contains design files for a 3D-printed case developed for the [E
   **FreeCAD File License:** GPLv3.
 
 - **Integrated Module:**  
-  The design utilizes the **ESP32C3 SunBuddy Module**.
+  The design utilizes the **SunBuddy-C3 Module**.
 
-![ESP32C3 SunBuddy 3D Case](media/SunBuddy.png)
+![SunBuddy-C3 3D Case](media/SunBuddy.png)
 
 ## Repository Contents
 
@@ -50,13 +50,13 @@ For more details about important 3d printing recommendations
    - **Without Solar Panel Support.**
 
 4. **Module Integration:**  
-   Install the **ESP32C3 SunBuddy Module** as directed to complete the system's functionality.
+   Install the **SunBuddy-C3 Module** as directed to complete the system's functionality.
 
 ---
 ## Installation and Moisture Protection Guide  
 
 ### Steps:  
-1. **Secure the module**: After placing and screwing in the **ESP32C3 SunBuddy Module**, ensure it is firmly fixed.  
+1. **Secure the module**: After placing and screwing in the **SunBuddy-C3 Module**, ensure it is firmly fixed.  
 2. **Apply silicone sealant**:  
    - Use **generous silicone glue** to fully cover the **USB-C port** and **button** from the **inside of the case**.  
    - Ensure no gaps remain to block moisture penetration.  
@@ -67,5 +67,5 @@ For more details about important 3d printing recommendations
 
 **License:** GPLv3 (applies to the FreeCAD file and the overall design).
 
-Make this case the perfect foundation for your outdoor projects and maximize the potential of the ESP32C3 SunBuddy Module!
+Make this case the perfect foundation for your outdoor projects and maximize the potential of the SunBuddy-C3 Module!
 
